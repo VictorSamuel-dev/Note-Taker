@@ -46,3 +46,5 @@ N/A
 ## License
       
       Licensed under the MIT license.
+## Deployed
+* [Heroku Deployed Link](https://notetaker-app-1-983552307000.herokuapp.com/notes)
